@@ -1,5 +1,8 @@
 # Automação utilizando o K6
 <!--https://medium.com/xp-inc/conhecendo-o-k6-para-testes-de-carga-943a0489de1e-->
+<!-- clona https depois git remote set-url --push origin git@github.com:Thiago142/automacao-k6.git 
+ e git push origin main
+ -->
 
 ## 🚀 Começando
 Esse projeto foi realizado com o objetivo de conhecer testes automatizados usando K6 em APIs.
@@ -38,6 +41,7 @@ npm install --save express
 
 
 ### 🔧 Comando de Execução do projeto
+Comando para executar k6 run index.js --vus 20 --duration 60s
 
 
 ## 🎁 Expressões de gratidão
