@@ -19,7 +19,23 @@ Esse projeto foi realizado com o objetivo de conhecer testes automatizados usand
 
 ### 🔧 Instalação
 É nescessário ter alguma IDE desenvolvimento para rodar o código main, ou poderá ser executado via CLI no terminal do Linux via.
-Comando de instalação do k6: choco install k6
+Comando de instalação do k6: 
+
+choco install k6
+
+npm init
+
+npm install --save express
+
+1.Criar pasta scenarios
+
+1.1 Dentro dela criar o arquivo Get Customer.js
+
+2.Criar o arquivo principal index.js
+
+2.1 Comando para executar k6 run index.js --vus 20 --duration 60s
+
+
 
 ### 🔧 Comando de Execução do projeto
 

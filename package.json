@@ -1,0 +1,22 @@
+{
+  "name": "automacao-k6",
+  "version": "1.0.0",
+  "description": "<!--https://medium.com/xp-inc/conhecendo-o-k6-para-testes-de-carga-943a0489de1e-->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago142/automacao-k6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago142/automacao-k6/issues"
+  },
+  "homepage": "https://github.com/Thiago142/automacao-k6#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
